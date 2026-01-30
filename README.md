@@ -1,12 +1,20 @@
 # Squigley
-Squigley is a game that I started developing during my freshman year of college when I barely knew how to program. As such, expect a lot of what you see to be complete dogshit code. I did want to backup this project to github so that I never lose it though, as I've learned a lot during this project and had many successes along with my pitfalls.
+Squigley is a 2D platformer that I developed during my freshman year of
+college. Though far from a perfect game, it was a project I was determined
+to see through to the end.
 
-If you're looking for quality code, here's some places you might expect to find something decent that is entirely mine:
-* Assets/Scripts/Bosses/Theos/AttackManager.cs or anything else in that folder.
-* Assets/Scripts/Logic/DebugTerminal.cs
-* Assets/Message Scripting/NewMessageHandler.cs
-  * This is obviously "new" because it reworked an old, shittier system. It's still not perfect, but I made it all on my own when some of the big programming concepts finally started clicking.
+The game was developed using **Unity 2D** and **C#**, which helped reinforce
+the object-oriented programming paradigm that I was learning in my classes.
+I went into college hoping computer science would teach me everything I
+needed to build projects like video games as a hobby. Working on *Squigley*
+during my first year really got me excited to learn more and improve my skills.
 
-# [Get on Steam](https://store.steampowered.com/app/2822670/Squigley/)
-If you're reading this, the game should already be free on steam by now.
+Being a solo developer, I also did most of the art and music, though I also
+collaborated with some friends back home I was in a band with for the song that
+plays during the end-credits. This was the biggest music recording and
+composition project I've done to date.
+
+Listen to the soundtrack [here](https://www.youtube.com/watch?v=9F_9Kx1DbPY&t=1206s).
+
+# [Free on Steam](https://store.steampowered.com/app/2822670/Squigley/)
 
